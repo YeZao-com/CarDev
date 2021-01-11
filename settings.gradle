@@ -1,0 +1,12 @@
+include ':BlueTransforLib'
+include ':image-manipulations'
+include ':tutorial-1-camerapreview'
+include ':face-detection'
+include ':tutorial-3-cameracontrol'
+include ':tutorial-2-mixedprocessing'
+include ':camera-calibration'
+include ':15-puzzle'
+include ':color-blob-detection'
+include ':sdk'
+include ':app'
+rootProject.name = "CarDemo"
